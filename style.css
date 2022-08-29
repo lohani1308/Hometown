@@ -4,11 +4,13 @@ body{
 }
 
 #city-name{
+    display: inline-block;
     font-family: 'Happy Monkey', cursive;
     font-weight: bold;
+    font-size: 40px;
     color: white;
     background-color: rgb(41, 83, 83);
-    margin-top: 350px;
+    margin-top: 250px;
 }
 
 .town--img{
